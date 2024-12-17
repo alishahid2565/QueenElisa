@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==ANK9VSMR2ZlRVYKRGTzdjdJZXYxM0SzkVWHdVVJdlcKVlRFhmd3g2QIJGNjEEcDFjbrVVUpwd=042402451329',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -17,22 +17,22 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+ᴄʏʙᴇʀ x  ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
-  PREFIX: '.$&',
+  MONGODB_URL: 'mongodb://hs03254424439:<db_password>@undefined/?replicaSet=atlas-136xvt-shard-0&ssl=true&authSource=admin', 
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
+  BOT_NAME: '🄲🅈🄱🄴🅁 🅇   🄱🄾🅃',
+  OWNER_NAME: '🅼🆁  🅰🅻🅸',
   OWNER_NUMBER: '94715166712',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ   ᴄʏʙᴇʀx',
+  STICKER_AUTHOR: '🅰🅻🅸',
+  STICKER_PACK: '🄲🅈🄱🄴🅁 🅇',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
